@@ -1,0 +1,1132 @@
+{
+    "clients": [
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "CHRM",
+            "value": 80439
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "DP World C",
+            "value": 5989345
+        },
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "IHL",
+            "value": 390029
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "AGRA - Bupa",
+            "value": 9690800
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "HACO Industries LTD",
+            "value": 1527573
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "Busara Global",
+            "value": 4446244
+        },
+        {
+            "category": "Corporate",
+            "month": "February",
+            "name": "RAI Cement",
+            "value": 10999647
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "Shara Technologies",
+            "value": 258375
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "NSSF Trustees",
+            "value": 163772
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "BANK OF Africa LTD",
+            "value": 3116531
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "AGRA - Malawi",
+            "value": 1191972
+        },
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "Custody & Registrar",
+            "value": 157899
+        },
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "GIZ",
+            "value": 2781926
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "Education FOR ALL",
+            "value": 116145
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "Central Bank Of Kenya",
+            "value": 6109067
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "Alice Munyua",
+            "value": 157461
+        },
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "Buhler LIMITED",
+            "value": 103937
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "Mahender Singh",
+            "value": 136765
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "Open Capital",
+            "value": 314631
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "Safaricom",
+            "value": 18105176
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "CEEC Guangxi Electric Power",
+            "value": 5013067
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "Western SEED CO C",
+            "value": 362532
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "CIC Staff",
+            "value": 6691564
+        },
+        {
+            "category": "Corporate",
+            "month": "February",
+            "name": "Harleys LIMITED",
+            "value": 4730645
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "AGRA - Rwanda",
+            "value": 504584
+        },
+        {
+            "category": "Corporate",
+            "month": "January",
+            "name": "Talanta Sports Stadium- CRBC",
+            "value": 3221256
+        },
+        {
+            "category": "Corporate",
+            "month": "September",
+            "name": "ST Andrew TURI",
+            "value": 3168860
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "International HS CIC",
+            "value": 219676
+        },
+        {
+            "category": "Healthcare",
+            "month": "January",
+            "name": "Smart Applications 2",
+            "value": 2598403
+        },
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "BANK OF Africa L",
+            "value": 424858
+        },
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "PASS",
+            "value": 48339
+        },
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "Smart APPS KE",
+            "value": 451346
+        },
+        {
+            "category": "Life",
+            "month": "January",
+            "name": "KVM",
+            "value": 186117
+        },
+        {
+            "category": "IMB",
+            "month": "January",
+            "name": "AGRA - Nigeria",
+            "value": 187924
+        },
+        {
+            "category": "Life",
+            "month": "February",
+            "name": "Schneider Electric K",
+            "value": 769730
+        },
+        {
+            "category": "Life",
+            "month": "February",
+            "name": "Concern Worldwide",
+            "value": 406495
+        },
+        {
+            "category": "Healthcare",
+            "month": "February",
+            "name": "ALH Stepwise CIC",
+            "value": 372670
+        },
+        {
+            "category": "Life",
+            "month": "February",
+            "name": "M-Pesa Foundation",
+            "value": 548922
+        },
+        {
+            "category": "Healthcare",
+            "month": "February",
+            "name": "BE Energy LIMITED",
+            "value": 941627
+        },
+        {
+            "category": "Healthcare",
+            "month": "February",
+            "name": "Alfacore LIMITED 25",
+            "value": 264132
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "UNGA LIMITED",
+            "value": 4063560
+        },
+        {
+            "category": "IMB",
+            "month": "February",
+            "name": "Investeringsfonden",
+            "value": 2101127
+        },
+        {
+            "category": "Life",
+            "month": "February",
+            "name": "Nyumba LINK",
+            "value": 24328
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "UNGA FARM CARE EA LIMITED",
+            "value": 2016000
+        },
+        {
+            "category": "Life",
+            "month": "February",
+            "name": "FHI",
+            "value": 179518
+        },
+        {
+            "category": "Life",
+            "month": "February",
+            "name": "Engie Energy Access",
+            "value": 430736
+        },
+        {
+            "category": "Healthcare",
+            "month": "March",
+            "name": "Wajir South-Wasda",
+            "value": 597076
+        },
+        {
+            "category": "Healthcare",
+            "month": "March",
+            "name": "THE African Academy",
+            "value": 499559
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "GULF Energy Aviation",
+            "value": 2028323
+        },
+        {
+            "category": "IMB",
+            "month": "March",
+            "name": "Open Capital B-Ghana",
+            "value": 1453080
+        },
+        {
+            "category": "IMB",
+            "month": "March",
+            "name": "Open Capital B-Nigeria",
+            "value": 290650
+        },
+        {
+            "category": "IMB",
+            "month": "March",
+            "name": "Open Capital B-Zambia",
+            "value": 776478
+        },
+        {
+            "category": "Healthcare",
+            "month": "March",
+            "name": "Kerry Taste",
+            "value": 492437
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "BM Security",
+            "value": 672042
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Laborex Kenya LTD",
+            "value": 252254
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Wananchi Group",
+            "value": 1030393
+        },
+        {
+            "category": "Corporate",
+            "month": "October",
+            "name": "ALP North USD",
+            "value": 1388673
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "WOW Beverages",
+            "value": 494883
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "Clique LTD",
+            "value": 64601
+        },
+        {
+            "category": "Corporate",
+            "month": "January",
+            "name": "International House C",
+            "value": 1215902
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "Fides Kenya",
+            "value": 1028904
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "ACT",
+            "value": 49631
+        },
+        {
+            "category": "IMB",
+            "month": "April",
+            "name": "Fredrik Joubert",
+            "value": 273936
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Grassroots Kenya LTD",
+            "value": 165653
+        },
+        {
+            "category": "Corporate",
+            "month": "October",
+            "name": "ALP WEST USD",
+            "value": 660895
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "KVM INS",
+            "value": 568262
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "Limesol LTD",
+            "value": 155608
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Nyakati Athena LTD",
+            "value": 625845
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "QED Actuaries",
+            "value": 97614
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Safeways",
+            "value": 15400
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Samasource Kenya LTD",
+            "value": 896443
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Tejas NET",
+            "value": 92664
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "NABO Capital LIMITED",
+            "value": 655738
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "Wananchi Group Kenya",
+            "value": 2585934
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "Wananchi Group Tanzania",
+            "value": 738334
+        },
+        {
+            "category": "Healthcare",
+            "month": "April",
+            "name": "Wananchi Group Uganda",
+            "value": 225221
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Kerry Kenya",
+            "value": 901815
+        },
+        {
+            "category": "Life",
+            "month": "April",
+            "name": "Kerry Rwanda",
+            "value": 63989
+        },
+        {
+            "category": "Corporate",
+            "month": "April",
+            "name": "SUN Pharma",
+            "value": 507825
+        },
+        {
+            "category": "Healthcare",
+            "month": "May",
+            "name": "SNDBX International",
+            "value": 132243
+        },
+        {
+            "category": "Life",
+            "month": "May",
+            "name": "Pwani OIL Products",
+            "value": 998751
+        },
+        {
+            "category": "Healthcare",
+            "month": "May",
+            "name": "Avenue Lease",
+            "value": 104086
+        },
+        {
+            "category": "Corporate",
+            "month": "August",
+            "name": "Bayobab Africa",
+            "value": 487701
+        },
+        {
+            "category": "Healthcare",
+            "month": "May",
+            "name": "SGA Kenya- AFYA TELE",
+            "value": 1124300
+        },
+        {
+            "category": "Life",
+            "month": "May",
+            "name": "Kerry Taste KE",
+            "value": 96311
+        },
+        {
+            "category": "Healthcare",
+            "month": "May",
+            "name": "MESPT",
+            "value": 1069466
+        },
+        {
+            "category": "Corporate",
+            "month": "January",
+            "name": "Royal Media Services LIMITED C",
+            "value": 478445
+        },
+        {
+            "category": "IMB",
+            "month": "May",
+            "name": "Robert Stevens",
+            "value": 71011
+        },
+        {
+            "category": "Healthcare",
+            "month": "May",
+            "name": "SNDBX Ubuntu LTD",
+            "value": 569710
+        },
+        {
+            "category": "Healthcare",
+            "month": "May",
+            "name": "Sisule & Associates",
+            "value": 182998
+        },
+        {
+            "category": "Healthcare",
+            "month": "May",
+            "name": "TNC",
+            "value": 3199627
+        },
+        {
+            "category": "IMB",
+            "month": "June",
+            "name": "Francis Muchoki",
+            "value": 12097
+        },
+        {
+            "category": "Corporate",
+            "month": "April",
+            "name": "Sphinx Pharmaceutica",
+            "value": 464988
+        },
+        {
+            "category": "Healthcare",
+            "month": "June",
+            "name": "Acumen SACCO LTD",
+            "value": 146600
+        },
+        {
+            "category": "IMB",
+            "month": "June",
+            "name": "Empower Learning Africa",
+            "value": 3221364
+        },
+        {
+            "category": "Healthcare",
+            "month": "June",
+            "name": "Tandaa",
+            "value": 229965
+        },
+        {
+            "category": "Healthcare",
+            "month": "July",
+            "name": "LAW Society OF Kenya",
+            "value": 884785
+        },
+        {
+            "category": "Corporate",
+            "month": "January",
+            "name": "Engie Energy C",
+            "value": 401706
+        },
+        {
+            "category": "Corporate",
+            "month": "January",
+            "name": "SGS C",
+            "value": 373759
+        },
+        {
+            "category": "Life",
+            "month": "July",
+            "name": "Cereal Growers",
+            "value": 155303
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "Pernord Ricard",
+            "value": 319477
+        },
+        {
+            "category": "Healthcare",
+            "month": "July",
+            "name": "UNGA Farmcare LTD",
+            "value": 996081
+        },
+        {
+            "category": "Healthcare",
+            "month": "July",
+            "name": "UNGA LIMITED",
+            "value": 2065330
+        },
+        {
+            "category": "Corporate",
+            "month": "January",
+            "name": "Bendor C",
+            "value": 216741
+        },
+        {
+            "category": "Corporate",
+            "month": "April",
+            "name": "Kijani Botanicals",
+            "value": 202979
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "National Housing Corporation",
+            "value": 162945
+        },
+        {
+            "category": "Corporate",
+            "month": "May",
+            "name": "Omining",
+            "value": 130082
+        },
+        {
+            "category": "Life",
+            "month": "July",
+            "name": "UNGA FARM CARE",
+            "value": 426572
+        },
+        {
+            "category": "Life",
+            "month": "July",
+            "name": "UNGA LIMITED",
+            "value": 375466
+        },
+        {
+            "category": "IMB",
+            "month": "July",
+            "name": "Albena Staroselska Melin",
+            "value": 217520
+        },
+        {
+            "category": "Corporate",
+            "month": "October",
+            "name": "JHPIEGO Corporation",
+            "value": 125550
+        },
+        {
+            "category": "IMB",
+            "month": "July",
+            "name": "Dylan Fried",
+            "value": 30992
+        },
+        {
+            "category": "Life",
+            "month": "July",
+            "name": "Gardaworld Services",
+            "value": 385760
+        },
+        {
+            "category": "Corporate",
+            "month": "September",
+            "name": "International Organisation FOR Immigration (Part Of UNON",
+            "value": 122889
+        },
+        {
+            "category": "Life",
+            "month": "July",
+            "name": "Living Water Service",
+            "value": 65493
+        },
+        {
+            "category": "IMB",
+            "month": "July",
+            "name": "Martha Haile",
+            "value": 108147
+        },
+        {
+            "category": "Healthcare",
+            "month": "July",
+            "name": "Oppein LTD",
+            "value": 184437
+        },
+        {
+            "category": "IMB",
+            "month": "July",
+            "name": "Vivien Heijstee-Patt",
+            "value": 190180
+        },
+        {
+            "category": "Healthcare",
+            "month": "July",
+            "name": "DR Kalebi LABS LTD",
+            "value": 1134423
+        },
+        {
+            "category": "Healthcare",
+            "month": "July",
+            "name": "Trademark Africa",
+            "value": 3534553
+        },
+        {
+            "category": "Life",
+            "month": "July",
+            "name": "CBK - Group Mortgage",
+            "value": 405772
+        },
+        {
+            "category": "Life",
+            "month": "July",
+            "name": "Trademark Africa",
+            "value": 2074317
+        },
+        {
+            "category": "Life",
+            "month": "July",
+            "name": "KPC",
+            "value": 4104431
+        },
+        {
+            "category": "Life",
+            "month": "August",
+            "name": "Xpose LIMITED",
+            "value": 82895
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "Ethica Sanofi Group",
+            "value": 588744
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "Light FOR THE World",
+            "value": 1442109
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "BOC Gases PLC",
+            "value": 716743
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Aaron Leopold",
+            "value": 137863
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Andrew Kinzer",
+            "value": 96982
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Anne Miltenburg",
+            "value": 180614
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "Avenue CAR HIRE",
+            "value": 419113
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "BLUE Logistic Group",
+            "value": 331417
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Catalina Puerta",
+            "value": 503218
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Declan K Mmbijjewe",
+            "value": 86732
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Kaitlyn Swist",
+            "value": 165641
+        },
+        {
+            "category": "Life",
+            "month": "August",
+            "name": "LAW Society OF Kenya",
+            "value": 123159
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Maria Rabinovich",
+            "value": 339262
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Marinus Lenssen",
+            "value": 247788
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Michael Davico",
+            "value": 110479
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Michael Keenan",
+            "value": 120545
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "Polish Humanitarian",
+            "value": 90958
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Scott Condliffe",
+            "value": 223451
+        },
+        {
+            "category": "IMB",
+            "month": "August",
+            "name": "Susana Manu",
+            "value": 171576
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "THE PRO Elite HOSP",
+            "value": 258168
+        },
+        {
+            "category": "Life",
+            "month": "August",
+            "name": "URKO Sanchez Architects",
+            "value": 45703
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "Rural Datacentre",
+            "value": 275489
+        },
+        {
+            "category": "Healthcare",
+            "month": "August",
+            "name": "Kerry Kenya LTD",
+            "value": 663600
+        },
+        {
+            "category": "Corporate",
+            "month": "April",
+            "name": "Samasource",
+            "value": 114441
+        },
+        {
+            "category": "Corporate",
+            "month": "March",
+            "name": "NOVO N",
+            "value": 47904
+        },
+        {
+            "category": "Life",
+            "month": "September",
+            "name": "Millennium Water Alliance Kenya",
+            "value": 152697
+        },
+        {
+            "category": "Healthcare",
+            "month": "September",
+            "name": "Quickmart",
+            "value": 2509491
+        },
+        {
+            "category": "Healthcare",
+            "month": "September",
+            "name": "Ex-Kwal Staff",
+            "value": 275370
+        },
+        {
+            "category": "Life",
+            "month": "September",
+            "name": "Jubilee LIFE Agents",
+            "value": 516266
+        },
+        {
+            "category": "Corporate",
+            "month": "May",
+            "name": "FINE",
+            "value": 46803
+        },
+        {
+            "category": "Life",
+            "month": "September",
+            "name": "Ngorongo TEA Factory",
+            "value": 212821
+        },
+        {
+            "category": "IMB",
+            "month": "September",
+            "name": "Peter Ogo",
+            "value": 92751
+        },
+        {
+            "category": "Life",
+            "month": "September",
+            "name": "Rural Datacentre",
+            "value": 52902
+        },
+        {
+            "category": "Corporate",
+            "month": "June",
+            "name": "RUIRU Sports CLUB",
+            "value": 46720
+        },
+        {
+            "category": "Healthcare",
+            "month": "September",
+            "name": "Simba And Simba Advocates",
+            "value": 285472
+        },
+        {
+            "category": "Healthcare",
+            "month": "September",
+            "name": "SMEC International",
+            "value": 861251
+        },
+        {
+            "category": "Healthcare",
+            "month": "September",
+            "name": "Concern Worldwide Kenya",
+            "value": 1508573
+        },
+        {
+            "category": "Healthcare",
+            "month": "September",
+            "name": "St Andrew'S School, Turi",
+            "value": 1502623
+        },
+        {
+            "category": "Healthcare",
+            "month": "September",
+            "name": "Xpose LIMITED",
+            "value": 272188
+        },
+        {
+            "category": "Healthcare",
+            "month": "October",
+            "name": "BLUE Ventures",
+            "value": 1018830
+        },
+        {
+            "category": "Life",
+            "month": "October",
+            "name": "Kenya Human Right Commission",
+            "value": 106562
+        },
+        {
+            "category": "Healthcare",
+            "month": "October",
+            "name": "Transparency International Kenya LTD",
+            "value": 483750
+        },
+        {
+            "category": "Corporate",
+            "month": "September",
+            "name": "Rural Datacentre",
+            "value": 36800
+        },
+        {
+            "category": "Corporate",
+            "month": "April",
+            "name": "Adenia",
+            "value": 15133
+        },
+        {
+            "category": "Life",
+            "month": "October",
+            "name": "Blue Log Kenya LIMITED",
+            "value": 51363
+        },
+        {
+            "category": "Life",
+            "month": "October",
+            "name": "Church Commissioners For Kenya Credit Life",
+            "value": 241894
+        },
+        {
+            "category": "Healthcare",
+            "month": "October",
+            "name": "US Embassy Security",
+            "value": 1503020
+        },
+        {
+            "category": "Healthcare",
+            "month": "October",
+            "name": "St Andrew'S School, Turi- Workforce",
+            "value": 502872
+        },
+        {
+            "category": "Corporate",
+            "month": "July",
+            "name": "Global Impact Network Kenya",
+            "value": 11000
+        },
+        {
+            "category": "IMB",
+            "month": "November",
+            "name": "Michael Keenan",
+            "value": 122955
+        },
+        {
+            "category": "IMB",
+            "month": "November",
+            "name": "Berit Kadoch Lattof",
+            "value": 269670
+        },
+        {
+            "category": "IMB",
+            "month": "November",
+            "name": "Pamela Mallinga",
+            "value": 124052
+        },
+        {
+            "category": "Healthcare",
+            "month": "November",
+            "name": "Inkomoko LTD",
+            "value": 5097042
+        },
+        {
+            "category": "Healthcare",
+            "month": "November",
+            "name": "Prideinn HTLS & INVT",
+            "value": 1430513
+        },
+        {
+            "category": "Healthcare",
+            "month": "November",
+            "name": "Ankole Grill",
+            "value": 797022
+        },
+        {
+            "category": "Healthcare",
+            "month": "November",
+            "name": "Kenya SEED",
+            "value": 54314
+        },
+        {
+            "category": "IMB",
+            "month": "December",
+            "name": "Mr Abdillahi Adan Koshen",
+            "value": 77698
+        },
+        {
+            "category": "IMB",
+            "month": "December",
+            "name": "Brooks Washington",
+            "value": 151390
+        },
+        {
+            "category": "IMB",
+            "month": "December",
+            "name": "Stephen Mcdowel",
+            "value": 133961
+        },
+        {
+            "category": "Healthcare",
+            "month": "December",
+            "name": "RUIRU Sports CLUB",
+            "value": 236460
+        },
+        {
+            "category": "Healthcare",
+            "month": "December",
+            "name": "Bolt Support Kenya LTD",
+            "value": 1360061
+        },
+        {
+            "category": "Healthcare",
+            "month": "December",
+            "name": "Kanha LTD - Hyatt Place & Hyatt House",
+            "value": 383009
+        },
+        {
+            "category": "Coast",
+            "month": "Various",
+            "name": "Various",
+            "value": 1485644
+        },
+        {
+            "category": "Western",
+            "month": "Various",
+            "name": "Various",
+            "value": 2759655
+        }
+    ]
+}
